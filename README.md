@@ -5,7 +5,7 @@ Repository of all notebooks used in Introduction to ML-DL for CyberSecurity.
 1. Kindly open the notebooks in Colab using the "Open in Colab" button on each notebook.
 2. Experiment with the code by changing hyperparameters, epochs, number of hidden layers, etc. If you face any abnormal outputs, feel free to ping us.
 3. Kindly follow the links mentioned in the notebooks to understand more. You are free of course to Google more resources to understand the same. 
-4. Do keep in mind to take dataset link.
+4. Do keep in mind to take the datasets from the drive folder link.
 
 Any doubts, feel free to ask your queries. Feel free to check out our other repos since most are based on different algorithms of ML-DL.  
 
