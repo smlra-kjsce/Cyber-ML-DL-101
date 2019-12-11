@@ -1,5 +1,5 @@
 # Cyber-ML-DL-101
-Repository of all notebooks used in Introduction to ML-DL for CyberSecurity, conducted at [Network Intelligence(NII)](https://www.niiconsulting.com/).
+Repository of all notebooks used in Introduction to ML-DL for CyberSecurity, conducted at [Network Intelligence(NII)](https://www.niiconsulting.com/), Mumbai.
 
 ### Some points to note on how to use this repository:
 1. Kindly open the notebooks in Colab using the "Open in Colab" button on each notebook.
