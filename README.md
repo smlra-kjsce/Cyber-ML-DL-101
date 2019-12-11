@@ -1,5 +1,5 @@
 # Cyber-ML-DL-101
-Repository of all notebooks used in Introduction to ML-DL for CyberSecurity.
+Repository of all notebooks used in Introduction to ML-DL for CyberSecurity, conducted at [Network Intelligence(NII)](https://www.niiconsulting.com/).
 
 ### Some points to note on how to use this repository:
 1. Kindly open the notebooks in Colab using the "Open in Colab" button on each notebook.
@@ -11,7 +11,7 @@ Any doubts, feel free to ask your queries. Feel free to check out our other repo
 
 Cheers,
 
-SMLRA 👨‍💻
+SMLRA 👨‍💻 
 
 Speakers (Profile Links): [Kavita Kelkar](https://kjsce.somaiya.edu/kjsce/academic/faculty/0000160057/mrs__kavita_m_kelkar/0), [Jasdeep Singh Grover](https://in.linkedin.com/in/jasdeep-singh-grover-80a6b4149), [Nikhil Bhardwaj](https://in.linkedin.com/in/nik9hil) and [Harsh Domadia](https://in.linkedin.com/in/harsh-domadia-302920161).
 
